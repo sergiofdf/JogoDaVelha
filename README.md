@@ -39,4 +39,4 @@ Ilustração do jogo
 
 Ilustração da mensagem de vitória.
 
-![UML](print2.jpg "Vitória jogador X")
+![UML](print2.jpg "Vitória jogador O")

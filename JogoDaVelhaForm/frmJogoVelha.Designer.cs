@@ -44,6 +44,7 @@
             // 
             this.lbl01.BackColor = System.Drawing.Color.White;
             this.lbl01.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl01.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lbl01.Location = new System.Drawing.Point(134, 88);
             this.lbl01.MaximumSize = new System.Drawing.Size(56, 65);
             this.lbl01.MinimumSize = new System.Drawing.Size(56, 65);
@@ -57,6 +58,7 @@
             // 
             this.lbl02.BackColor = System.Drawing.Color.White;
             this.lbl02.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl02.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lbl02.Location = new System.Drawing.Point(222, 88);
             this.lbl02.MaximumSize = new System.Drawing.Size(56, 65);
             this.lbl02.MinimumSize = new System.Drawing.Size(56, 65);
@@ -70,6 +72,7 @@
             // 
             this.lbl00.BackColor = System.Drawing.Color.White;
             this.lbl00.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl00.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lbl00.Location = new System.Drawing.Point(46, 88);
             this.lbl00.MaximumSize = new System.Drawing.Size(56, 65);
             this.lbl00.MinimumSize = new System.Drawing.Size(56, 65);
@@ -83,6 +86,7 @@
             // 
             this.lbl11.BackColor = System.Drawing.Color.White;
             this.lbl11.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lbl11.Location = new System.Drawing.Point(134, 183);
             this.lbl11.MaximumSize = new System.Drawing.Size(56, 65);
             this.lbl11.MinimumSize = new System.Drawing.Size(56, 65);
@@ -96,6 +100,7 @@
             // 
             this.lbl10.BackColor = System.Drawing.Color.White;
             this.lbl10.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lbl10.Location = new System.Drawing.Point(46, 182);
             this.lbl10.MaximumSize = new System.Drawing.Size(56, 65);
             this.lbl10.MinimumSize = new System.Drawing.Size(56, 65);
@@ -109,6 +114,7 @@
             // 
             this.lbl12.BackColor = System.Drawing.Color.White;
             this.lbl12.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lbl12.Location = new System.Drawing.Point(222, 183);
             this.lbl12.MaximumSize = new System.Drawing.Size(56, 65);
             this.lbl12.MinimumSize = new System.Drawing.Size(56, 65);
@@ -122,6 +128,7 @@
             // 
             this.lbl22.BackColor = System.Drawing.Color.White;
             this.lbl22.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lbl22.Location = new System.Drawing.Point(221, 277);
             this.lbl22.MaximumSize = new System.Drawing.Size(56, 65);
             this.lbl22.MinimumSize = new System.Drawing.Size(56, 65);
@@ -135,6 +142,7 @@
             // 
             this.lbl21.BackColor = System.Drawing.Color.White;
             this.lbl21.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lbl21.Location = new System.Drawing.Point(133, 277);
             this.lbl21.MaximumSize = new System.Drawing.Size(56, 65);
             this.lbl21.MinimumSize = new System.Drawing.Size(56, 65);
@@ -148,6 +156,7 @@
             // 
             this.lbl20.BackColor = System.Drawing.Color.White;
             this.lbl20.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lbl20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.lbl20.Location = new System.Drawing.Point(45, 276);
             this.lbl20.MaximumSize = new System.Drawing.Size(56, 65);
             this.lbl20.MinimumSize = new System.Drawing.Size(56, 65);
